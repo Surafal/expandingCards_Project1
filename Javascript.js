@@ -1,1 +1,3 @@
-Hello my name is surafal 
+let = "mikel"
+let = "surafal"
+let = "kirubel"
